@@ -49,7 +49,7 @@ This list is organized around that lifecycle rather than around any single vendo
 - **[Kong](https://github.com/Kong/kong)** - The API gateway's AI Gateway plugin extends Kong's existing traffic-control and auth model to LLM and agent traffic.
 - **[Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/)** - A managed gateway in front of any LLM provider, adding caching, rate limiting, and logging for agent/LLM traffic.
 - **[APIClaw](https://apiclaw.biz)** - A hosted flat-rate OpenAI-compatible AI API gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM, with plans from $19/month and a 50-request free trial.
- 
+
 ## 📦 Sandboxing & Isolation
 *Secure runtimes that contain what an agent can touch on the host system.*
 
